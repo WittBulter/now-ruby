@@ -1,6 +1,6 @@
 {
   "name": "now-ruby",
-  "version": "0.0.29",
+  "version": "0.1.0",
   "main": "./builder.js",
   "module": "./builder.js",
   "jsnext:main": "./builder.js",
